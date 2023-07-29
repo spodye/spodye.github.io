@@ -3,7 +3,7 @@
 html {
   scroll-behavior: smooth;
   transition: all 0.35s ease 0s;
-  background-color: #7676a3;
+  background-color: #6b048050;
 }
 body{
   margin:0;
@@ -24,7 +24,7 @@ header{
   align-items:center;
   padding:30px 10%;
   box-sizing:border-box;
-  background-color: #8181b5;
+  background-color: #720e8bb6;
 }
 .prof{
   margin-right:auto;
