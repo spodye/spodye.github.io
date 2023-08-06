@@ -41,7 +41,7 @@ header{
   
 }
 .prof h5:hover{
-  color: #fbff25;
+  color: #fbff00;
   transition: all 0.35s ease 0s;
   
 }
@@ -56,18 +56,18 @@ header{
   transition: all 0.35s ease 0s;
 }
 .nav_links li a:hover{
-  color:#fbff25;
+  color:#fbff00;
 }
 .contact_me button{
   padding:9px 25px;
-  background-color: rgb(159, 193, 7);
+  background-color: rgb(18, 188, 218);
   border:none;
   border-radius:50px;
   cursor:pointer;
   transition: all 0.35s ease 0s;
 }
 .contact_me button:hover{
-  background-color: #fbff25;
+  background-color: #fbff00;
 }
 .text{
   color:white;
@@ -78,7 +78,7 @@ header{
 .text p{
   padding: 0 15rem;
   justify-self: center;
-} 
+}
 #page_top{
   margin-top:40px;
   height:90vh;
@@ -97,7 +97,7 @@ header{
   height:10vh;
 }
 #socials h4{
-  color:#fbff25;
+  color:#fbff00;
   font-size:20px;
 }
 ion-icon{
@@ -112,6 +112,6 @@ footer{
   transition: all 0.35s ease 0s;
 }
 .socials ion-icon:hover{
-  color:#fbff25;
+  color:#fbff00;
   transition: all 0.35s ease 0s;
 }
